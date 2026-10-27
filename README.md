@@ -13,25 +13,6 @@ O **QA Engineering Lab** reúne documentação, templates e exercícios para dem
 - **Profissionais de automação:** conexão entre o desenho dos testes e sua implementação automatizada.
 - **Pessoas interessadas em qualidade de IA:** uma frente planejada para avaliação de sistemas generativos, robustez e comportamento responsável.
 
-## Como as práticas se conectam
-
-```mermaid
-flowchart TD
-    A[Requisitos e critérios de aceite] --> B[Análise de riscos]
-    B --> C[Desenho de cenários e casos de teste]
-    C --> D[Execução e evidências]
-    D --> E{Resultado esperado?}
-    E -->|Sim| F[Registrar aprovação]
-    E -->|Não| G[Investigar e registrar defeito]
-    G --> H[Correção e reteste]
-    H --> D
-    F --> I[Regressão e decisão de release]
-    I --> J[Monitoramento e aprendizado]
-    J --> A
-```
-
-O diagrama representa um fluxo de referência, não um processo rígido. Em projetos reais, as atividades podem se sobrepor, conforme o produto e seus riscos.
-
 ## Comece por aqui
 
 ### Guias e fundamentos
@@ -61,6 +42,25 @@ O diagrama representa um fluxo de referência, não um processo rígido. Em proj
 | [Dashboard de métricas — Excel](docs/qa-metrics-dashboard.xlsx) | Planilha para explorar indicadores de QA com dados de exemplo. |
 
 **Sugestão de percurso:** comece pelo ciclo de vida de QA, avance para estratégia e técnicas de teste, utilize a matriz de riscos e o template de casos de teste e, por fim, explore rastreabilidade, métricas e Status Report. Os materiais foram pensados para funcionar em conjunto.
+
+## Como as práticas se conectam
+
+```mermaid
+flowchart TD
+    A[Requisitos e critérios de aceite] --> B[Análise de riscos]
+    B --> C[Desenho de cenários e casos de teste]
+    C --> D[Execução e evidências]
+    D --> E{Resultado esperado?}
+    E -->|Sim| F[Registrar aprovação]
+    E -->|Não| G[Investigar e registrar defeito]
+    G --> H[Correção e reteste]
+    H --> D
+    F --> I[Regressão e decisão de release]
+    I --> J[Monitoramento e aprendizado]
+    J --> A
+```
+
+O diagrama representa um fluxo de referência, não um processo rígido. Em projetos reais, as atividades podem se sobrepor, conforme o produto e seus riscos.
 
 ## Estrutura do repositório
 
