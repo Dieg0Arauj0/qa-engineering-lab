@@ -37,11 +37,12 @@ O **QA Engineering Lab** reúne documentação, templates e exercícios para dem
 
 ### Exercícios e materiais práticos
 
-| Material                                                                                           |                                                     O que você vai encontrar                                                     |
-| -------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: |
-| [Dashboard de métricas — Excel](docs/qa-metrics-dashboard.xlsx)                                   |                                   Planilha para explorar indicadores de QA com dados de exemplo.                                   |
-| [Status Report demonstrativo — Word](examples/status-report/qa-status-report-demonstrativo.docx)   | Exemplo fictício de acompanhamento de testes, com indicadores, gráfico de pizza, análise de riscos e recomendação de release. |
-| [Matriz de Riscos demonstrativa — Excel](examples/risk-matrix/matriz-de-riscos-demonstrativa.xlsx) |     Exemplo fictício de análise de riscos com probabilidade, impacto, classificação automática e ações de mitigação.    |
+| Material                                                                                           |                                                                 O que você vai encontrar                                                                 |
+| -------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Dashboard de métricas — Excel](docs/qa-metrics-dashboard.xlsx)                                   |                                               Planilha para explorar indicadores de QA com dados de exemplo.                                               |
+| [Status Report demonstrativo — Word](examples/status-report/qa-status-report-demonstrativo.docx)   |             Exemplo fictício de acompanhamento de testes, com indicadores, gráfico de pizza, análise de riscos e recomendação de release.             |
+| [Matriz de Riscos demonstrativa — Excel](examples/risk-matrix/matriz-de-riscos-demonstrativa.xlsx) |                 Exemplo fictício de análise de riscos com probabilidade, impacto, classificação automática e ações de mitigação.                 |
+| [Plano de Testes demonstrativo — Word](examples/test-plan/plano-de-testes-demonstrativo.docx)      |  Exemplo fictício de planejamento de QA, incluindo escopo, estratégia, critérios de entrada e saída, responsabilidades e abordagem baseada em riscos. |
 
 
 **Sugestão de percurso:** comece pelo ciclo de vida de QA, avance para estratégia e técnicas de teste, utilize a matriz de riscos e o template de casos de teste e, por fim, explore rastreabilidade, métricas e Status Report. Os materiais foram pensados para funcionar em conjunto.
