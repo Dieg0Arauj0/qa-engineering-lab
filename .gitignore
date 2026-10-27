@@ -1,0 +1,27 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Arquivos temporários do Microsoft Office
+~$*.docx
+~$*.xlsx
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Arquivos de log
+*.log
