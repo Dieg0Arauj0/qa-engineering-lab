@@ -17,29 +17,31 @@ O **QA Engineering Lab** reúne documentação, templates e exercícios para dem
 
 ### Guias e fundamentos
 
-| Material | O que você vai encontrar |
-| --- | --- |
-| [Ciclo de vida de QA](docs/qa-lifecycle.md) | Refinamento, Shift Left, validação durante a sprint, homologação, automação e Shift Right. |
-| [Técnicas de design de testes](docs/test-design-techniques.md) | Particionamento de equivalência, valores-limite, tabelas de decisão e transições de estados. |
-| [Estratégia e planejamento de testes](docs/test-strategy-and-planning.md) | Escopo, abordagem, riscos, critérios de entrada e saída e planejamento da execução. |
-| [Rastreabilidade de testes](docs/test-traceability.md) | Relações entre requisitos, riscos, casos de teste, execuções e defeitos. |
-| [Métricas e indicadores de QA](docs/qa-metrics-and-indicators.md) | Indicadores de execução, interpretação de resultados e limitações das métricas. |
+| Material                                                                  | O que você vai encontrar                                                                        |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Ciclo de vida de QA](docs/qa-lifecycle.md)                                | Refinamento, Shift Left, validação durante a sprint, homologação, automação e Shift Right. |
+| [Técnicas de design de testes](docs/test-design-techniques.md)            | Particionamento de equivalência, valores-limite, tabelas de decisão e transições de estados. |
+| [Estratégia e planejamento de testes](docs/test-strategy-and-planning.md) | Escopo, abordagem, riscos, critérios de entrada e saída e planejamento da execução.          |
+| [Rastreabilidade de testes](docs/test-traceability.md)                     | Relações entre requisitos, riscos, casos de teste, execuções e defeitos.                     |
+| [Métricas e indicadores de QA](docs/qa-metrics-and-indicators.md)         | Indicadores de execução, interpretação de resultados e limitações das métricas.           |
 
 ### Templates reutilizáveis
 
-| Material | O que você vai encontrar |
-| --- | --- |
-| [Casos de teste](templates/test-cases/test-case-template.md) | Modelo para elaborar, executar e revisar casos de teste. |
-| [Relatório de defeitos](templates/bug-report/bug-report-template.md) | Reprodução de bugs, evidências, severidade, prioridade e reteste. |
-| [Matriz de riscos](templates/risk-matrix/risk-matrix-template.md) | Identificação, avaliação, classificação e mitigação de riscos de qualidade. |
+| Material                                                                         | O que você vai encontrar                                                                         |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Casos de teste](templates/test-cases/test-case-template.md)                      | Modelo para elaborar, executar e revisar casos de teste.                                          |
+| [Relatório de defeitos](templates/bug-report/bug-report-template.md)             | Reprodução de bugs, evidências, severidade, prioridade e reteste.                              |
+| [Matriz de riscos](templates/risk-matrix/risk-matrix-template.md)                 | Identificação, avaliação, classificação e mitigação de riscos de qualidade.               |
 | [Status Report — Markdown](templates/status-report/qa-status-report-template.md) | Acompanhamento de execução, réguas de progresso, defeitos, riscos e recomendação de release. |
-| [Status Report — Word](templates/status-report/qa-status-report-template.docx) | Versão editável para comunicação com POs, gestores e outros stakeholders. |
+| [Status Report — Word](templates/status-report/qa-status-report-template.docx)   | Versão editável para comunicação com POs, gestores e outros stakeholders.                     |
 
 ### Exercícios e materiais práticos
 
-| Material | O que você vai encontrar |
-| --- | --- |
-| [Dashboard de métricas — Excel](docs/qa-metrics-dashboard.xlsx) | Planilha para explorar indicadores de QA com dados de exemplo. |
+| Material                                                                                         |                                                      O que você vai encontrar                                                      |
+| ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------: |
+| [Dashboard de métricas — Excel](docs/qa-metrics-dashboard.xlsx)                                 |                                    Planilha para explorar indicadores de QA com dados de exemplo.                                    |
+| [Status Report demonstrativo — Word](examples/status-report/qa-status-report-demonstrativo.docx) |  Exemplo fictício de acompanhamento de testes, com indicadores, gráfico de pizza, análise de riscos e recomendação de release. |
+
 
 **Sugestão de percurso:** comece pelo ciclo de vida de QA, avance para estratégia e técnicas de teste, utilize a matriz de riscos e o template de casos de teste e, por fim, explore rastreabilidade, métricas e Status Report. Os materiais foram pensados para funcionar em conjunto.
 
